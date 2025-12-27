@@ -1,3 +1,7 @@
+# Version 0.22.4
+- Improved recognition of triangles.
+- Improved input processing for smoother handwriting.
+  
 # Version 0.22.3
 - NEW: automatic shape recognition for arrows, triangles, rectangles, circles and ellipses.
 - FIX: bug that cause the app to hang if a lot of documents were opened quickly.
